@@ -1,0 +1,4 @@
+python -m venv venv
+source venv/bin/acivate
+
+pip install numpy pandas matplotlib tensorflow torch
