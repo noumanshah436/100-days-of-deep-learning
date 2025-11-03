@@ -1,5 +1,9 @@
+playlist:
+https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+
 
 
 next video:
-https://www.youtube.com/watch?v=ma6hWrU-LaI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=16
-Backpropagation Part 2 | The How | Complete Deep Learning Playlist
+
+https://www.youtube.com/watch?v=rW0eeTXas4k&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=18
+MLP Memoization | Complete Deep Learning Playlist
