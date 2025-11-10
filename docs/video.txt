@@ -2,8 +2,11 @@ playlist:
 https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
-
-next video:
-
+Skipped ANN part next video:
 https://www.youtube.com/watch?v=rW0eeTXas4k&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=18
 MLP Memoization | Complete Deep Learning Playlist
+
+
+next video for CNN:
+Padding & Strides in CNN | CNN Lecture 4 | Deep Learning
+https://www.youtube.com/watch?v=btWE6SsdDZA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=43
