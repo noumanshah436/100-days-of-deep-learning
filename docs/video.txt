@@ -8,5 +8,5 @@ MLP Memoization | Complete Deep Learning Playlist
 
 
 next video for CNN:
-Padding & Strides in CNN | CNN Lecture 4 | Deep Learning
-https://www.youtube.com/watch?v=btWE6SsdDZA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=43
+CNN Architecture | LeNet -5 Architecture
+https://www.youtube.com/watch?v=ewsvsJQOuTI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=45
