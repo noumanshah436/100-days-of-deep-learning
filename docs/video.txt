@@ -8,5 +8,9 @@ MLP Memoization | Complete Deep Learning Playlist
 
 
 next video for CNN:
-CNN Architecture | LeNet -5 Architecture
-https://www.youtube.com/watch?v=ewsvsJQOuTI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=45
+
+CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers
+https://www.youtube.com/watch?v=OoSDzOodY3Y&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=48
+
+
+27:04
