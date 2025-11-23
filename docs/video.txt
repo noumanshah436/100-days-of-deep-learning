@@ -9,8 +9,9 @@ MLP Memoization | Complete Deep Learning Playlist
 
 next video for CNN:
 
-CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers
-https://www.youtube.com/watch?v=OoSDzOodY3Y&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=48
+What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX
 
+https://www.youtube.com/watch?v=WJysB1RK2vM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=52
 
-27:04
+visualising-cnn.ipynb:
+https://colab.research.google.com/drive/16dJdtGPL-6ikEgGOZDcC29-gHrk1caCc#scrollTo=48zM336EJkf3
