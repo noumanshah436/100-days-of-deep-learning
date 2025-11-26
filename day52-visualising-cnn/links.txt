@@ -1,2 +1,9 @@
 How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
+
+
+
+My google colab:
+
+visualising-cnn.ipynb:
+https://colab.research.google.com/drive/16dJdtGPL-6ikEgGOZDcC29-gHrk1caCc#scrollTo=48zM336EJkf3

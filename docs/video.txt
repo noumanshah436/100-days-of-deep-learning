@@ -8,10 +8,8 @@ MLP Memoization | Complete Deep Learning Playlist
 
 
 next video for CNN:
+What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction
 
-What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX
+https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53
 
-https://www.youtube.com/watch?v=WJysB1RK2vM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=52
-
-visualising-cnn.ipynb:
-https://colab.research.google.com/drive/16dJdtGPL-6ikEgGOZDcC29-gHrk1caCc#scrollTo=48zM336EJkf3
+17:40
