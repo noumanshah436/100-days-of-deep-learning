@@ -8,8 +8,6 @@ MLP Memoization | Complete Deep Learning Playlist
 
 
 next video for CNN:
-What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction
 
-https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53
-
-17:40
+Recurrent Neural Network | Forward Propagation | Architecture
+https://www.youtube.com/watch?v=BjWqCcbusMM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=56
