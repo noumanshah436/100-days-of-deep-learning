@@ -1,0 +1,13 @@
+
+Skipped ANN part next video:
+MLP Memoization | Complete Deep Learning Playlist
+https://www.youtube.com/watch?v=rW0eeTXas4k&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=18
+
+***************************
+
+RNN skipped next video:
+Types of RNN | Many to Many | One to Many | Many to One RNNs
+https://www.youtube.com/watch?v=TkOBxzhIySg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=58&pp=iAQB
+
+
+

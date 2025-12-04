@@ -2,12 +2,11 @@ playlist:
 https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
-Skipped ANN part next video:
-https://www.youtube.com/watch?v=rW0eeTXas4k&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=18
-MLP Memoization | Complete Deep Learning Playlist
+***************************
+
+Encoder Decoder | Sequence-to-Sequence Architecture | Deep Learning | CampusX
+
+https://www.youtube.com/watch?v=KiL74WsgxoA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=68
 
 
-next video for CNN:
-
-Recurrent Neural Network | Forward Propagation | Architecture
-https://www.youtube.com/watch?v=BjWqCcbusMM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=56
+start: 10:00
