@@ -4,9 +4,16 @@ https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 ***************************
 
+LSTM | Long Short Term Memory | Part 1 | The What? | CampusX
+
+https://www.youtube.com/watch?v=z7IPBg6MyrU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=61
+
+***************************
+
 Encoder Decoder | Sequence-to-Sequence Architecture | Deep Learning | CampusX
 
 https://www.youtube.com/watch?v=KiL74WsgxoA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=68
 
 
 start: 10:00
+
