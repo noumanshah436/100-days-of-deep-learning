@@ -11,7 +11,7 @@ def to_snake_case(text):
     return text.lower()
 
  
-word_with_spaces = "day63-Next Word Predictor Using_LSTM"
+word_with_spaces = "day70-Bahdanau Attention Vs Luong Attention"
 snake_case_word_with_spaces = to_snake_case(word_with_spaces)
 print(f"Original: {word_with_spaces}")
 print(f"Snake Case: {snake_case_word_with_spaces}")
