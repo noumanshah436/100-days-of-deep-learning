@@ -10,8 +10,18 @@ https://www.youtube.com/watch?v=fiqo6uPCJVI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNL
 
 ***************************
 
+Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.
+
+https://www.youtube.com/watch?v=ISNdQcPhsts
 
 
 
-Bahdanau Attention Vs Luong Attention
-https://www.youtube.com/watch?v=0hZT4_fHfNQ&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=70
+********************************
+
+
+
+Self Attention in Transformers | Deep Learning | Simple Explanation with Code!
+  
+https://www.youtube.com/watch?v=-tCKPl_8Xb8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=73
+
+36:00
