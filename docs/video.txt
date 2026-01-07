@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=ISNdQcPhsts
 ********************************
 
 
+Scaled Dot Product Attention | Why do we scale Self Attention?
 
-Self Attention in Transformers | Deep Learning | Simple Explanation with Code!
-  
-https://www.youtube.com/watch?v=-tCKPl_8Xb8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=73
 
-36:00
+https://www.youtube.com/watch?v=r7mAt0iVqwo&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=74
+
+6:30
