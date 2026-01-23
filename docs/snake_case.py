@@ -11,7 +11,7 @@ def to_snake_case(text):
     return text.lower()
 
  
-word_with_spaces = "day74_ Scaled Dot Product Attention"
+word_with_spaces = "day7_ Multi-head Attention"
 snake_case_word_with_spaces = to_snake_case(word_with_spaces)
 print(f"Original: {word_with_spaces}")
 print(f"Snake Case: {snake_case_word_with_spaces}")
