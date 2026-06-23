@@ -25,10 +25,8 @@ https://www.youtube.com/watch?v=ISNdQcPhsts
 
 ********************************
 
+Next video:
 
-Scaled Dot Product Attention | Why do we scale Self Attention?
+Why is Self Attention called "Self"? | Self Attention Vs Luong Attention in Depth Lecture | CampusX
 
-
-https://www.youtube.com/watch?v=r7mAt0iVqwo&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=74
-
-6:30
+https://www.youtube.com/watch?v=o4ZVA0TuDRg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=76
