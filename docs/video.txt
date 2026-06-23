@@ -4,6 +4,13 @@ https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 ***************************
 
+Vanishing Gradient Problem in ANN | Exploding Gradient Problem | Code Example
+
+https://www.youtube.com/watch?v=uCrevbBh0zM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=18
+
+
+***************************
+
 LSTM | Part 3 | Next Word Predictor Using | CampusX
 
 https://www.youtube.com/watch?v=fiqo6uPCJVI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=63
